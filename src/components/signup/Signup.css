@@ -1,0 +1,20 @@
+.input-main
+{
+    display: grid;
+    gap: 26px;
+    justify-content: center;
+}
+.input-box{
+    width: 400px;
+    height: 30px;
+    border: 1px solid skyblue;
+}
+.submite-btn
+{
+    margin-top: 30px;
+    background: skyblue;
+    border: 1px solid black;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}

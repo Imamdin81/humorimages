@@ -1,0 +1,26 @@
+.login
+{
+    display: grid;
+    gap: 26px;
+    justify-content: center;
+}
+.name-input-filed{
+    width: 400px;
+    height: 30px;
+    border: 1px solid skyblue;
+}
+.password-input-filed{
+    width: 400px;
+    height: 30px;
+    border: 1px solid skyblue;
+}
+
+.login-btn
+{
+    margin-top: 30px;
+    background: skyblue;
+    border: 1px solid black;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
