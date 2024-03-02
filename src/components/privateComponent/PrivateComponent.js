@@ -1,4 +1,3 @@
-import react from "react"
 import { Navigate, Outlet} from "react-router-dom"
 const PrivateComponet=()=>{
     const auth=localStorage.getItem('user')
